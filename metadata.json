@@ -1,0 +1,6 @@
+{
+  "name": "Product Interview Copilot",
+  "description": "AI-powered candidate interview workspace for Product Managers and Product Owners with candidate resume parsing, tailored questions, live voice answer capture, candidate scoring, and automated decision summary reports.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
